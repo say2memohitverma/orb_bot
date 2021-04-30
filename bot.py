@@ -2,7 +2,7 @@ from trade_client import TradeClient
 from trading import TradeORB
 from log_wrapper import LogWrapper
 import threading
-#practice account so security threat
+#practice account so no security threat
 accountID = '101-001-19034598-001'
 token = '06e811dacdba86915a05a7031c744136-94a79c4cfede80f7362248aa069e8214'
 
